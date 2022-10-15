@@ -22,10 +22,10 @@ The project has been built following this [Video](https://www.youtube.com/watch?
 ### 🚀️ Getting Started
 
 (1) Clone this repository
-### `git clone https://github.com/REEKRAJROY/Superchat.git` 
+### `git clone https://github.com/Rohit734/Superchat.git` 
 
 (2) Change the working directory
-### `cd superchat`
+### `cd superchat-main`
 
 (3) Install dependencies
 ### `npm install`
